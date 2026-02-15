@@ -1,0 +1,1 @@
+# plugins-advanced-image-comparison-for-elementor
